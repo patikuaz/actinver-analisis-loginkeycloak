@@ -1,0 +1,4 @@
+Bundle-Name: Login SSO Keycloak
+Bundle-SymbolicName: com.actinver.analisis
+Bundle-Version: 1.0.0
+Export-Package: com.actinver.analisis.constants
